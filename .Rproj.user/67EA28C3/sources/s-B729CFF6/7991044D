@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "852952723",
     "id" : "7991044D",
-    "lastKnownWriteTime" : 1584509793,
-    "last_content_update" : 1584509793497,
+    "lastKnownWriteTime" : 1584513432,
+    "last_content_update" : 1584513432881,
     "path" : "~/GitHub/108-2-56-inclass-practice/R0318.R",
     "project_path" : "R0318.R",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
