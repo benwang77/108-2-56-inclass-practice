@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"str_extract(semiGodsSemiDevils$data[c(section, \"p2\")])","line_number":0},{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"type(pattern)","line_number":0}],"message":"Error in type(pattern) : 缺少引數 \"pattern\"，也沒有預設值\n"}

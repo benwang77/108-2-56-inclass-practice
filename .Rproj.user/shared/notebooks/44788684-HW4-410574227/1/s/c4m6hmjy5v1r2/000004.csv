@@ -1,0 +1,4 @@
+"0","context_picked<-str_extract(semiGodsSemiDevils$data[c(section,""p2"")])
+"
+"2","Error in type(pattern) : 缺少引數 ""pattern""，也沒有預設值
+"
