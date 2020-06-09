@@ -2,24 +2,24 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1590039214485.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "675997690",
     "id" : "6EF89146",
     "lastKnownWriteTime" : 1590039280,
-    "last_content_update" : 1590039280343,
+    "last_content_update" : 1590482103509,
     "path" : "C:/Users/win/Desktop/經濟系/選修/資料科學程式設計/HW5-410574227.Rmd",
     "project_path" : null,
     "properties" : {
         "chunk_output_type" : "console",
-        "cursorPosition" : "5,23",
-        "scrollLine" : "0"
+        "cursorPosition" : "44,0",
+        "scrollLine" : "31"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

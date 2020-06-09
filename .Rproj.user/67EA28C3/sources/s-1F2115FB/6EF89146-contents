@@ -40,7 +40,9 @@ jsonlite::fromJSON("https://www.dropbox.com/s/es19f62rijrd8i7/studentHeight.json
 請將「學年度」及「年齡」都改成ordered factor, levels順序以其文字數值從小排到大。( 答案物件studentHeights本身)
 
 ```{r ans11}
-# studentHeights
+factor(studentHeights$學年度,ordered=T)->studentHeights
+factor(studentHeights$年齡,ordered=T)->studentHeights
+studentHeights
 ```
 
 ### 1.2 年齡層

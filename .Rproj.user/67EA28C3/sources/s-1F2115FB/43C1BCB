@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590558691343.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "43C1BCB",
+    "lastKnownWriteTime" : 1969334997064,
+    "last_content_update" : 1590558691343,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3DDE1253",
+        "caption" : "courseStructure",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=courseStructure&cache_key=3DDE1253",
+        "displayedObservations" : 20425,
+        "environment" : "",
+        "expression" : "courseStructure",
+        "object" : "courseStructure",
+        "preview" : 0,
+        "totalObservations" : 20425,
+        "variables" : 17
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
